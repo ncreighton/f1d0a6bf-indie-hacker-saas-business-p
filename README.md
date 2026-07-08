@@ -1,2 +1,25 @@
-# f1d0a6bf-indie-hacker-saas-business-p
-Stop starting from a blank document every single time. Start professional results from day one.  Professional formatting tested across different screen sizes and printers. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Indie Hacker / Saas Business Plan And Strategy Template — fully configured and ready to use -
+# Indie Hacker / SaaS Business Plan and Strategy Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ3cv12D6Ak6xy5bucZH0o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ3cv12D6Ak6xy5bucZH0o)
+
